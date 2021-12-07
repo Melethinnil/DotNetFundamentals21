@@ -1,0 +1,15 @@
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.exe
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.deps.json
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.runtimeconfig.json
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.dll
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\ref\01_CSFundamentals_Basics.dll
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.pdb
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.csproj.AssemblyReference.cache
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.GeneratedMSBuildEditorConfig.editorconfig
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.AssemblyInfoInputs.cache
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.AssemblyInfo.cs
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.csproj.CoreCompileInputs.cache
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.dll
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\ref\01_CSFundamentals_Basics.dll
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.pdb
+S:\OneDrive\IT-utbildning\Repository\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.genruntimeconfig.cache
