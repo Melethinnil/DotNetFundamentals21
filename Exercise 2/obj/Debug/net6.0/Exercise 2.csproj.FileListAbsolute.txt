@@ -1,0 +1,15 @@
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\bin\Debug\net6.0\Exercise 2.exe
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\bin\Debug\net6.0\Exercise 2.deps.json
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\bin\Debug\net6.0\Exercise 2.runtimeconfig.json
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\bin\Debug\net6.0\Exercise 2.dll
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\bin\Debug\net6.0\ref\Exercise 2.dll
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\bin\Debug\net6.0\Exercise 2.pdb
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.csproj.AssemblyReference.cache
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.AssemblyInfoInputs.cache
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.AssemblyInfo.cs
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.csproj.CoreCompileInputs.cache
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.dll
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\ref\Exercise 2.dll
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.pdb
+S:\OneDrive\IT-utbildning\Repository\Exercise 2\obj\Debug\net6.0\Exercise 2.genruntimeconfig.cache
