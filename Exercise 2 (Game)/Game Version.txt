@@ -16,7 +16,7 @@ If you keep an attendee waiting for too long, they'll get increasingly dissatisf
 the event has an age limit, which means you need to reject reservations from underage attendees
 	though be careful that they didn't just accidentally give the wrong age
 
-At the end, you want to have as many attendees as possible, without going over the maximum limit for the event, and have as high a general customer satisfaction as possible
+At the end, you want to have as many attendees as possible, and have as high a general customer satisfaction as possible
 	you'll get negative points for any missing or incorrect information you missed
 	you'll get negative points for underage attendees in the system, and also for rejected attendees that weren't actually underage
 	(maybe) you also get negative points for reservations that were supposed to be removed but are still in the system
@@ -28,3 +28,11 @@ At first, messages come in relatively slowly and aren't quite as error-prone, bu
 
 You also need to generate a unique discount code for each attendee
 	attendees who haven't received discount codes reduce the overall customer satisfaction
+
+Customer satisfaction is displayed as "reviews" given by the customers after the event
+
+
+
+
+use a dictionary for recognized inputs and their matching commands
+	this varies depending on which menu you're currently in
