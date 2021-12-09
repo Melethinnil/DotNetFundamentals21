@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a35248e3-89ad-42e8-a247-eb49bc154b1b": {
+      "ProjectGuid": "a35248e3-89ad-42e8-a247-eb49bc154b1b",
+      "DisplayName": "Exercise 2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "54f0606f-1429-4ac6-88da-d8b1bbada5d1": {
+      "ProjectGuid": "54f0606f-1429-4ac6-88da-d8b1bbada5d1",
+      "DisplayName": "Exercise 2 (Game)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
